@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+h1{
+    color: black;
+    font-family: sans-serif;
+    font-variant: small-caps;
+    font-style: italic;
+}
+input{
+    width: 100px;
+}
